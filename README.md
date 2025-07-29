@@ -10,7 +10,7 @@ Built from personal need, now shared with the world.
 
 https://chatgpt.com/g/g-68885b861fd8819186f4de4b2dc286b6-aldy-a-clarity-coach-for-the-anxious
 
-<img width="2170" height="1626" alt="Screenshot 2025-07-29 at 2 04 30 PM" src="https://github.com/user-attachments/assets/8066e153-59d0-4100-9f95-c31a8307bcbd" />
+<img alt="Screenshot 2025-07-29 at 2 04 30 PM" src="https://github.com/user-attachments/assets/8066e153-59d0-4100-9f95-c31a8307bcbd" />
 
 
 #mentalhealth #gratitudepractice #selfcare #aiwithheart #buildinpublic #claritycoach
