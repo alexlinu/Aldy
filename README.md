@@ -1,6 +1,7 @@
 # Aldy: Your All-Day Coach
 
-![Aldy Logo](./assets/aldy-logo.png)
+![IMG_0034](https://github.com/user-attachments/assets/ddee3414-b0b1-4e82-bb78-aa0ca205b112)
+
 
 *A sardonic, soulful AI coach for brilliant minds who overthink everything*
 
@@ -12,7 +13,7 @@ Aldy is a CustomGPT designed specifically for high-achieving, anxious minds who 
 
 Built for people with **ADHD, neuroticism, imposter syndrome, perfectionism**, and brains that think faster than their emotional systems can regulate.
 
-![Aldy Interface Screenshot](./assets/aldy-conversation-example.png)
+<img alt="Screenshot 2025-07-29 at 2 04 30 PM" src="https://github.com/user-attachments/assets/8066e153-59d0-4100-9f95-c31a8307bcbd" />
 
 ## The Problem Aldy Solves
 
@@ -33,8 +34,6 @@ We optimize everything except the fundamental assumptions that keep us small.
 - Dream analysis and emotional metaphor decoding
 - Identifying blind spots in thinking patterns
 
-![Self-Awareness Tools Screenshot](./assets/self-awareness-tools.png)
-
 ### 😰 **Untangle Anxiety & Overthinking**
 - CBT-based cognitive reframes
 - Neuroticism-reduction strategies
@@ -46,8 +45,6 @@ We optimize everything except the fundamental assumptions that keep us small.
 - Pre-boundary setting templates
 - Conflict navigation strategies
 - Confidence-building rituals
-
-![Boundary Scripts Screenshot](./assets/boundary-scripts-example.png)
 
 ### 🎯 **Transform Regret into Strategy**
 - Regret-minimization decision frameworks
@@ -67,8 +64,6 @@ We optimize everything except the fundamental assumptions that keep us small.
 - Separating self-worth from external achievement
 - Confidence that doesn't depend on performance
 
-![Self-Esteem Exercises Screenshot](./assets/self-esteem-exercises.png)
-
 ### 🔄 **Shift Limiting Mindsets**
 - Challenging "that's just how I am" beliefs
 - Micro-commitment behavior change
@@ -82,8 +77,6 @@ Regular ChatGPT gives generic advice. Aldy understands the specific psychology o
 **ChatGPT**: "Have you tried setting boundaries with your manager?"
 
 **Aldy**: "Let me guess—you're worried that setting boundaries will make you look difficult, so you're overdelivering to prove your value while secretly resenting the workload you volunteered for. Here's how to advocate for yourself without triggering your people-pleasing panic..."
-
-![Comparison Screenshot](./assets/chatgpt-vs-aldy.png)
 
 ## Sample Conversation Flows
 
@@ -108,11 +101,10 @@ You: "My team keeps dumping work on me and I can't say no."
 Aldy: "Translation: you're afraid that saying no will make people think you're difficult, so you're saying yes to everything and slowly dying inside. Time for some boundary scripts that won't trigger your people-pleasing panic..."
 ```
 
-![Conversation Examples](./assets/conversation-examples.png)
 
 ## Getting Started
 
-1. **Access Aldy**: [Direct link to CustomGPT]
+1. **Access Aldy**: [[Direct link to Aldy](https://chatgpt.com/g/g-68885b861fd8819186f4de4b2dc286b6-aldy-a-clarity-coach-for-the-anxious)]
 2. **Start with a check-in**: "What's got me stuck right now?"
 3. **Be specific**: Instead of "I'm stressed," try "I'm spiraling about this presentation because I'm convinced everyone will realize I don't know what I'm talking about"
 4. **Expect pushback**: Aldy will challenge your limiting beliefs—that's the point
@@ -129,7 +121,7 @@ Aldy: "Translation: you're afraid that saying no will make people think you're d
 
 Found a bug in my thinking? Have ideas for improvement? Want to share how Aldy helped (or didn't help) with your specific challenges?
 
-**Submit feedback**: [Create an issue on this repository]
+**Submit feedback**: [[Create an issue on this repository]](https://github.com/alexlinu/Aldy/issues)
 
 **Share your experience**: What limiting beliefs did Aldy help you identify? What conversations were most valuable?
 
@@ -137,30 +129,7 @@ Found a bug in my thinking? Have ideas for improvement? Want to share how Aldy h
 
 ---
 
-## Why This Matters
 
-The tech industry needs fewer compliant high-achievers and more people willing to question the constraints they've accepted as facts. Sometimes the most radical thing you can do is examine the stories you've been telling yourself about what's possible.
-
-Your brilliant mind deserves better than carrying around unexamined limitations.
-
----
-
-*Built by someone who got tired of watching smart people stay stuck in patterns they could change.*
-
-
-# Aldy
-Aldy: A Clarity Coach for the Anxious
-
-A witty coach for overthinkers and distracted minds. Aldy helps you write better gratitude journals, manage self-doubt, and find clarity. Just type or copy-paste your gratitude note and I will guide you. Whether you’re spiraling, second-guessing, or just struggling to feel grateful for anything—Aldy listens, reflects, and nudges you back toward clarity.
-
-It’s not therapy. It’s not AI hype. It’s a pause. A nudge. A practice.
-Built from personal need, now shared with the world.
-
-🧠✨ Try it out or just say hi to Aldy: 
-
-https://chatgpt.com/g/g-68885b861fd8819186f4de4b2dc286b6-aldy-a-clarity-coach-for-the-anxious
-
-<img alt="Screenshot 2025-07-29 at 2 04 30 PM" src="https://github.com/user-attachments/assets/8066e153-59d0-4100-9f95-c31a8307bcbd" />
 
 
 #mentalhealth #gratitudepractice #selfcare #aiwithheart #buildinpublic #claritycoach
