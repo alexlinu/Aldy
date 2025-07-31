@@ -1,5 +1,5 @@
 <div style="background: linear-gradient(135deg, #87CEEB 0%, #B0E0E6 50%, #87CEEB 100%); min-height: 100vh; padding: 40px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; color: #2c3e50;">
-# Aldy: Your All-Day Coach
+# Your All-Day Coach
 
 *A sardonic, soulful AI coach for brilliant minds who overthink everything*
 
