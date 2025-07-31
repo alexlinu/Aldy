@@ -2,7 +2,6 @@
 
 *A sardonic, soulful AI coach for brilliant minds who overthink everything*
 
----
 
 ## What Is Aldy?
 
