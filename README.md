@@ -1,6 +1,6 @@
 # Aldy: Your All-Day Coach
 
-<img src="https://github.com/user-attachments/assets/ddee3414-b0b1-4e82-bb78-aa0ca205b112" alt="Aldy Logo" width="50">
+<img src="https://github.com/user-attachments/assets/ddee3414-b0b1-4e82-bb78-aa0ca205b112" alt="Aldy Logo" width="50" style="border-radius: 50%;">
 
 *A sardonic, soulful AI coach for brilliant minds who overthink everything*
 
@@ -68,6 +68,9 @@ We optimize everything except the fundamental assumptions that keep us small.
 - Micro-commitment behavior change
 - Essentialism and priority frameworks
 - Breaking compliance patterns
+
+<img alt="Screenshot 2025-07-29 at 2 24 13 PM" src="https://github.com/user-attachments/assets/7feabd77-ae4a-428a-a9a6-558285f3116e" />
+
 
 ## Why Not Just Use Regular ChatGPT?
 
