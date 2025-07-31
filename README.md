@@ -105,7 +105,7 @@ Aldy: "Translation: you're afraid that saying no will make people think you're d
 3. **Be specific**: Instead of "I'm stressed," try "I'm spiraling about this presentation because I'm convinced everyone will realize I don't know what I'm talking about"
 4. **Expect pushback**: Aldy will challenge your limiting beliefs—that's the point
 
-<img src="[./assets/aldy-logo.png](https://github.com/user-attachments/assets/0d614a52-f72b-477e-bab8-46312ae61b1f)" alt="Aldy Logo" width="200">
+<img src="https://github.com/user-attachments/assets/0d614a52-f72b-477e-bab8-46312ae61b1f" alt="Aldy Logo" width="200">
 
 
 ## Important Disclaimers
