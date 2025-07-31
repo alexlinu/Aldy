@@ -1,6 +1,6 @@
 # Aldy: Your All-Day Coach
 
-![IMG_0034](https://github.com/user-attachments/assets/ddee3414-b0b1-4e82-bb78-aa0ca205b112)
+![IMG_0034 width=50](https://github.com/user-attachments/assets/ddee3414-b0b1-4e82-bb78-aa0ca205b112)
 
 
 *A sardonic, soulful AI coach for brilliant minds who overthink everything*
