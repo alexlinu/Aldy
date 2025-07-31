@@ -2,9 +2,6 @@
 
 *A sardonic, soulful AI coach for brilliant minds who overthink everything*
 
-
-## What Is Aldy?
-
 Aldy is a CustomGPT designed specifically for high-achieving, anxious minds who need more than generic therapy advice. Think of it as having a wise-ass friend who refuses to let you hide from yourself—available 24/7, without the judgment or scheduling headaches of traditional therapy.
 
 Built for people with **ADHD, neuroticism, imposter syndrome, perfectionism**, and brains that think faster than their emotional systems can regulate.
