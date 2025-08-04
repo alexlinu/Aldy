@@ -1,4 +1,5 @@
 # Your All-Day Coach
+https://alexlinu.github.io/Aldy/
 
 *A sardonic, soulful AI coach for brilliant minds who overthink everything*
 
