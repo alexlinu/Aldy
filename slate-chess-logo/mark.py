@@ -5,7 +5,9 @@ The outline is one chain of curves plus that same chain rotated 180 degrees, so
 turned upside down the silhouette lands on itself: ear tip <-> slate point,
 snout <-> slate corner, left bulge <-> right bulge, counter V <-> counter L.
 The one deliberate exception is the knight's jaw notch, kept on the head only.
+The dark band keeps one thickness from the middle through the bottom turn.
 """
+import math
 import re
 
 BG = "#F3F5F8"
@@ -27,8 +29,26 @@ def _chain(jaw):  # counter V -> head -> ear -> top band -> left bulge -> counte
 JAW = "L150,-94 L228,-66 Q238,-62 244,-68 L292,-104 Q306,-116 298,-132 "
 SMOOTH = "L286,-100 Q306,-112 298,-132 "
 SILHOUETTE = "M16,-66 " + _chain(JAW) + _rot(_chain(SMOOTH)) + "Z"
-# The slate: everything left of the curl that runs from counter L to the bottom point.
-SLATE = "M-16,66 C60,96 124,140 124,200 C124,282 30,350 -64,402 L-420,402 L-420,66 Z"
+# The slate's inner edge is a straight line parallel to the bottom outer edge,
+# one middle-band thickness in, so the dark band keeps the same width through
+# the bottom turn. It meets the middle band's lower edge (extended past counter
+# L) in a sharp corner, the way the mouth line meets counter V at the top.
+STROKE = 136
+
+
+def _slate():
+    (x0, y0), (x1, y1) = (216, 190), (-44, 392)          # bottom outer edge
+    n = math.hypot(x1 - x0, y1 - y0)
+    dx, dy = (x1 - x0) / n, (y1 - y0) / n
+    ax, ay = x0 - dy * STROKE, y0 + dx * STROKE           # cut line: outer edge moved up-left
+    ex, ey = 120 / 130, 48 / 130                          # middle band's lower edge leaving L
+    k = ((ax + 16) * ey - (ay - 66) * ex) / (dy * ex - dx * ey)   # solve L + s*e = A + k*d
+    cx, cy = ax + k * dx, ay + k * dy                     # the sharp inner corner
+    fx, fy = cx + 600 * dx, cy + 600 * dy                 # run past the outline
+    return f"M-16,66 L{cx:.1f},{cy:.1f} L{fx:.1f},{fy:.1f} L-420,{fy:.1f} L-420,66 Z"
+
+
+SLATE = _slate()
 
 
 def defs(uid=""):
@@ -43,7 +63,8 @@ def defs(uid=""):
 def mark(uid=""):
     return (f'<path d="{SILHOUETTE}" fill="url(#g{uid})"/>'
             f'<g clip-path="url(#s{uid})"><path d="{SLATE}" fill="{PAGE}"/>'
-            f'<use href="#r{uid}" clip-path="url(#p{uid})"/></g>')
+            f'<use href="#r{uid}" clip-path="url(#p{uid})"/>'
+            f'</g>')
 
 
 def placed(cx, cy, height, uid=""):
