@@ -1,7 +1,7 @@
 # Slate Chess mark
 
 The knight-S, rebuilt so it sits dead-center and balanced on iPhone, iPad, Mac and Apple TV.
-The dark band keeps one width from the middle of the S through the bottom turn, so the bottom carries the same weight as the top.
+The bottom is a curved crescent as wide as the middle band at its widest, tapering into the point the way the top tapers into the ear. `options-abc.png` shows three crescent widths (B is built).
 
 - **Turns onto itself.** The outline is one set of curves plus the same set rotated 180°: ear tip ↔ slate point, snout ↔ slate corner, left curve ↔ right curve. The one exception is the knight's jaw notch, kept on the head only.
 - **Equal margins.** On every asset the left/right and top/bottom margins match within 1 px.
